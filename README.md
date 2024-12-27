@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://minhsang97.vercel.app/" target="_blank">minhsang.tech</a>
-</h2>
+  <a href="https://nguyenminhsang.id.vn" target="_blank">minhsang.tech</a>
+</h1>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
