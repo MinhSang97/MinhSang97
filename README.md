@@ -1,6 +1,6 @@
 <h1 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://nguyenminhsang.id.vn" target="_blank">minhsang.tech</a>
+  <a href="https://nguyenminhsang.id.vn" target="_blank">nguyenminhsang.id.vn</a>
 </h1>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://minhsang97.vercel.app/" target="_blank">minhsang.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://nguyenminhsang.id.vn" target="_blank">nguyenminhsang.id.vn</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 

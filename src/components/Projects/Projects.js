@@ -43,16 +43,16 @@ function Projects() {
                         />
                     </Col>
 
-              {/*      <Col md={4} className="project-card">*/}
-              {/*          <ProjectCard*/}
-              {/*              imgPath={editor}*/}
-              {/*              isBlog={false}*/}
-              {/*              title="Editor.io"*/}
-              {/*              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"*/}
-              {/*              ghLink="https://github.com/soumyajit4419/Editor.io"*/}
-              {/*              demoLink="https://editor.soumya-jit.tech/"*/}
-              {/*          />*/}
-              {/*      </Col>*/}
+                    <Col md={4} className="project-card">
+                        <ProjectCard
+                            imgPath={editor}
+                            isBlog={false}
+                            title="Fincheck"
+                            description="This project is a financial dashboard built with Next.js for the frontend and Go for the backend. It includes features such as family management, saving goals, transactions, investments, and user support. The interface is designed using Tailwind CSS and contains UI components like charts, sidebar, and header. The project utilizes APIs powered by Go to handle data related to users, transactions, and financial goals."
+                            ghLink="https://github.com/MinhSang97/fincheck-be"
+                            demoLink="https://husanenglish.online"
+                        />
+                    </Col>
 
               {/*      <Col md={4} className="project-card">*/}
               {/*          <ProjectCard*/}
